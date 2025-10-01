@@ -4436,3 +4436,4 @@ if __name__=='__main__':   ##just display some stuff
         vlegend(text='For Current Version of VSG_Module and Documentation, see:  https://github.com/FireLabSoftware/VSG_Module', font='Georgia 12')
         vlegend(text='Copywrite 2009-2022 Andrew Fire and Stanford University, All Rights Reserved', font='Georgia 8')
         vdisplay(filepath='VSG_Example_Image.svg')
+
