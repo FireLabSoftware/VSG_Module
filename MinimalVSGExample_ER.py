@@ -1,4 +1,4 @@
-from VSG_ModuleEO import *
+from VSG_ModuleFV import *  ## if needed, change this line to the current version of VSG
 from random import randint
 
 for i in range(100):
@@ -16,3 +16,4 @@ vgrid(gxlog=True, gylog=True, gxlabel='XAxis', gylabel='YAxis')
 vdisplay()
 
         
+
